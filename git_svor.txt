@@ -23,6 +23,9 @@ Svör við spurningu 2:
 	b) git diff --staged 
 	c) git diff commit1 commit2
 
+Svör við spurningu 3:
+	a) 
+
 4. 	Hvað er útgáfustýring (e.version control)? 
 
 5.	Hverjir eru helstu kostir við að nota GIT?
