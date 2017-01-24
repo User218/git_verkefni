@@ -1,0 +1,74 @@
+﻿#Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	a) cd
+	b) cd ~
+	c) ls
+	d) pwd
+	e) mkdir
+
+Svör við spurningu 1:
+	a) cd flakkar um directroies.
+	b) cd ~ fer beint á heimasvæðið.
+	c) ls prentar hvaða möppur og skrár eru inni í directoríinu sem þú ert í.
+	d) pwd prentar slóðina að directoríinu sem þú ert í.
+	e) mkdir býr til directory.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	a) git clone
+	b) git log
+	c) git status
+	d) git diff
+	e) git checkout
+
+Svör við spurningu 2:
+	a) git clone býr til clóna af repositoríi
+	b) git log sækir ID
+	c) git status prentar hluti sem þú hefur breytt.
+	d) git diff sýnir hvað er breytt en ekki "staged".
+	e) git checkout getur skipt út breytingum.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+Svör við spurningu 3:
+	a) git diff sýnir hvað er breytt en ekki "staged".
+	b) git diff --staged sýnir breytingar sem eru "staged" en ekki "committed".
+	c) git diff commit1 commit2 sýnir breytingar sem eru "committed".
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+
+Svar við spurningu 4:
+	Full saga af breytingum í öllum skrám.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+
+Svar við spurningu 5:
+	Það er hægt að færa skjöl yfir á github.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+Svar við spurningu 6:
+	Eins mörgum sinnum og þarf. Það fer eftir því hvað eru margar spurningar.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+Svar við spurningu 7:
+	Working directory er directory sem virkar, Staging area er skrá sem 
+	segir um hvað fer í næsta committið, Repository er mappa á github.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+
+Svar við spurningu 8:
+	Þegar maður er að vinna með repository.
+
+9.	Hver fann upp GIT?
+
+Svar við spurningu 9:
+	Linus Torvalds.
+
+10.	Hvar er GIT helst notað?
+
+Svar við spurningu 10:
+	Aðallega vil hópavinnu.
