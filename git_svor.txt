@@ -50,7 +50,7 @@ Svar við spurningu 8:
 	
 9.	Hver fann upp GIT?
 
-
+Svar við spurningu 9:
 	
 10.	Hvar er GIT helst notað?
 
