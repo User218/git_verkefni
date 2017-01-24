@@ -46,7 +46,7 @@ Svar við spurningu 7:
 	
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
-
+Svar við spurningu 8:
 	
 9.	Hver fann upp GIT?
 
