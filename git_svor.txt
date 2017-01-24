@@ -38,7 +38,7 @@ Svar við spurningu 5:
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
-
+Svar við spurningu 6:
 	
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
