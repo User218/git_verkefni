@@ -1,16 +1,22 @@
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd
-	cd ~
-	ls
-	pwd
-	mkdir
+	a) cd
+	b) cd ~
+	c) ls
+	d) pwd
+	e) mkdir
+
+Svör við spurningu 1:
+	a) 
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
+	a) git clone
+	b) git log
+	c) git status
+	d) git diff
+	e) git checkout
+
+Svör við spurningu 2:
+	a) 
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
