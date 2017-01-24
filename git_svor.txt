@@ -38,21 +38,21 @@ Svar við spurningu 5:
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
-Svar við spurningu 6:
+
 	
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
-Svar við spurningu 7:
+
 	
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
-Svar við spurningu 8:
+
 	
 9.	Hver fann upp GIT?
 
-Svar við spurningu 9:
+
 	
 10.	Hvar er GIT helst notað?
 
-Svar við spurningu 10:
+
 	
