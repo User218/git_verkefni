@@ -54,5 +54,5 @@ Svar við spurningu 9:
 	
 10.	Hvar er GIT helst notað?
 
-
+Svar við spurningu 10:
 	
